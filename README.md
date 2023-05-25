@@ -1,11 +1,12 @@
 # grammer_correct
 
-Correct grammar is essential in any language. The role of syntax in a programming language is similar to the role of grammar in any language. I'll walk you through the grammatical correction task in Python in this article.
+Correct grammar is essential in any language. The role of syntax in a programming language is similar to the role of grammar in any language. I'll walk you through the grammatical correction task in Python in this project.
 
 How do I use Python for Grammar Correction?
 
-There are several tools that may assist you in correcting grammatical errors when writing. Grammarly is one of the greatest instances of such software. It may repair any mistakes in your writing and help you in completing your articles, emails, or any piece of writing without errors.
-The Gingerit Python library is an open-source library that includes all of Grammarly's features. It is simple to install using the pip command;
+There are several tools that may assist you in correcting grammatical errors when writing. Grammarly is one of the greatest example of such software. It may repair any mistakes in your writing and help you in completing your articles, emails, or any piece of writing without errors.
+
+The Gingerit Python library is an open-source library that includes all of Grammarly's features. It is simple to install using the pip command; i.e;
 
 pip install gingerit. 
 
