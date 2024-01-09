@@ -1,4 +1,4 @@
-# Grammar and Spell Checker with GingerIt**
+# Grammar and Spell Checker with GingerIt
 
 This Python script harnesses the power of the GingerIt API to check and correct grammar and spelling mistakes in English text.
 
