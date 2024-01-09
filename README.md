@@ -1,16 +1,18 @@
-# grammer_correct
+ **# Grammar and Spell Checker with GingerIt**
 
-Correct grammar is essential in any language. The role of syntax in a programming language is similar to the role of grammar in any language. I'll walk you through the grammatical correction task in Python in this project.
+This Python script harnesses the power of the GingerIt API to check and correct grammar and spelling mistakes in English text.
 
-How do I use Python for Grammar Correction?
+## Usage
 
-There are several tools that may assist you in correcting grammatical errors when writing. Grammarly is one of the greatest example of such software. It may repair any mistakes in your writing and help you in completing your articles, emails, or any piece of writing without errors.
+1. When prompted, enter a sentence or text you want to check.
+2. The script will connect to GingerIt's API and receive corrected text.
+3. The corrected text will be displayed in your terminal.
 
-The Gingerit Python library is an open-source library that includes all of Grammarly's features. It is simple to install using the pip command; i.e;
+## Additional Notes
 
-pip install gingerit. 
+- **Internet connection required:** GingerIt's API requires an active internet connection.
+- **API rate limits:** GingerIt has API usage limits. Refer to their documentation for details.
 
+## Contributing
 
-In the above code, I import the GingerIt function from the gingerit library before saving a sentence as user input in the variable 'text'.
-The GingerIt() method is then initialised on the supplied text. This method produces a dictionary containing the text and the result, thus I chose'result' to show the corrected text in the final output.
-
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
